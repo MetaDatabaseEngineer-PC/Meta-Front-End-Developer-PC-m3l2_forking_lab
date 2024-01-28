@@ -1,2 +1,0 @@
-Pratir
-Database Engineer
